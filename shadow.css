@@ -1,0 +1,336 @@
+/*
+
+
+
+            BY CREPER92YT 
+          ᄃЯΣPΣЯ92YƬ#5234
+           www.creper92.tk
+www.github.com/creper92yt/css-shadows
+
+
+
+*/
+
+.shadow-yellow{ 
+	filter: drop-shadow(0 0 15px yellow);
+}
+
+.shadow-orange{ 
+	filter: drop-shadow(0 0 15px orange);
+}
+
+.shadow-green{ 
+	filter: drop-shadow(0 0 15px green);
+}
+
+.shadow-lime{ 
+	filter: drop-shadow(0 0 15px lime);
+}
+
+.shadow-blue{ 
+	filter: drop-shadow(0 0 15px blue);
+}
+
+.shadow-darkblue{ 
+	filter: drop-shadow(0 0 15px darkblue);
+}
+
+.shadow-red{ 
+	filter: drop-shadow(0 0 15px red);
+}
+
+.shadow-darkred{ 
+	filter: drop-shadow(0 0 15px darkred);
+}
+
+.shadow-purple{ 
+	filter: drop-shadow(0 0 15px purple);
+}
+
+.shadow-pink{ 
+	filter: drop-shadow(0 0 15px pink);
+}
+
+.shadow-beige{ 
+	filter: drop-shadow(0 0 15px beige);
+}
+
+.shadow-cyan{ 
+	filter: drop-shadow(0 0 15px cyan);
+}
+
+.shadow-firebrick{ 
+	filter: drop-shadow(0 0 15px firebrick);
+}
+
+.shadow-gold{ 
+	filter: drop-shadow(0 0 15px gold);
+}
+
+.shadow-goldenrod{ 
+	filter: drop-shadow(0 0 15px goldenrod);
+}
+
+.shadow-lightblue{ 
+	filter: drop-shadow(0 0 15px lightblue);
+}
+
+.shadow-indigo{ 
+	filter: drop-shadow(0 0 15px indigo);
+}
+
+.shadow-coral{ 
+	filter: drop-shadow(0 0 15px coral);
+}
+
+.shadow-salmon{ 
+	filter: drop-shadow(0 0 15px salmon);
+}
+
+.shadow-lightcoral{ 
+	filter: drop-shadow(0 0 15px lightcoral);
+}
+
+.shadow-lightsalmon{ 
+	filter: drop-shadow(0 0 15px lightsalmon);
+}
+
+.shadow-magenta{ 
+	filter: drop-shadow(0 0 15px magenta);
+}
+
+.shadow-maroon{ 
+	filter: drop-shadow(0 0 15px Maroon);
+}
+
+.shadow-magenta{ 
+	filter: drop-shadow(0 0 15px magenta);
+}
+
+.shadow-mediumblue{ 
+	filter: drop-shadow(0 0 15px mediumblue);
+}
+
+.shadow-navy{ 
+	filter: drop-shadow(0 0 15px navy);
+}
+
+.shadow-magenta{ 
+	filter: drop-shadow(0 0 15px magenta);
+}
+
+.shadow-mediumspringgreen{ 
+	filter: drop-shadow(0 0 15px MediumSpringGreen);
+}
+
+.shadow-olive{ 
+	filter: drop-shadow(0 0 15px olive);
+}
+
+.shadow-orangered{ 
+	filter: drop-shadow(0 0 15px orangered);
+}
+
+.shadow-plum{ 
+	filter: drop-shadow(0 0 15px plum);
+}
+
+.shadow-seashell{ 
+	filter: drop-shadow(0 0 15px seashell);
+}
+
+.shadow-teal{ 
+	filter: drop-shadow(0 0 15px teal);
+}
+
+.shadow-turquoise{ 
+	filter: drop-shadow(0 0 15px turquoise);
+}
+
+.shadow-tomato{ 
+	filter: drop-shadow(0 0 15px tomato);
+}
+
+.shadow-wheat{ 
+	filter: drop-shadow(0 0 15px wheat);
+}
+
+.shadow-yellowgreen{ 
+	filter: drop-shadow(0 0 15px yellowgreen);
+}
+
+.shadow-snow{ 
+	filter: drop-shadow(0 0 15px snow);
+}
+
+.shadow-palevioletred{ 
+	filter: drop-shadow(0 0 15px palevioletred);
+}
+
+.shadow-palegoldenrod{ 
+	filter: drop-shadow(0 0 15px palegoldenrod);
+}
+
+.shadow-palegreen{ 
+	filter: drop-shadow(0 0 15px palegreen);
+}
+
+.shadow-peru{ 
+	filter: drop-shadow(0 0 15px peru);
+}
+
+.shadow-oldlace{ 
+	filter: drop-shadow(0 0 15px oldlace);
+}
+
+.shadow-saddlebrown{ 
+	filter: drop-shadow(0 0 15px saddlebrown);
+}
+
+.shadow-silver{ 
+	filter: drop-shadow(0 0 15px silver);
+}
+
+.shadow-slategray{ 
+	filter: drop-shadow(0 0 15px slategray);
+}
+
+.shadow-tan{ 
+	filter: drop-shadow(0 0 15px tan);
+}
+
+.shadow-steelblue{ 
+	filter: drop-shadow(0 0 15px steelblue);
+}
+
+.shadow-slategrey{ 
+	filter: drop-shadow(0 0 15px slategrey);
+}
+
+.shadow-slategray{ 
+	filter: drop-shadow(0 0 15px slategray);
+}
+
+.shadow-thistle{ 
+	filter: drop-shadow(0 0 15px thistle);
+}
+
+.shadow-rebeccapurple{ 
+	filter: drop-shadow(0 0 15px rebeccapurple);
+}
+
+.shadow-orchid{ 
+	filter: drop-shadow(0 0 15px orchid);
+}
+
+.shadow-peachpuff{ 
+	filter: drop-shadow(0 0 15px peachpuff);
+}
+
+.shadow-moccasin{ 
+	filter: drop-shadow(0 0 15px moccasin);
+}
+
+.shadow-mintcream{ 
+	filter: drop-shadow(0 0 15px mintcream);
+}
+
+.shadow-mediumaquamarine{ 
+	filter: drop-shadow(0 0 15px mediumaquamarine);
+}
+
+.shadow-ivory{ 
+	filter: drop-shadow(0 0 15px Ivory);
+}
+
+.shadow-hotpink{ 
+	filter: drop-shadow(0 0 15px hotpink);
+}
+
+.shadow-indianred{ 
+	filter: drop-shadow(0 0 15px teal);
+}
+
+.shadow-gainsboro{ 
+	filter: drop-shadow(0 0 15px gainsboro);
+}
+
+.shadow-floralwhite{ 
+	filter: drop-shadow(0 0 15px floralwhite);
+}
+
+.shadow-deeppink{ 
+	filter: drop-shadow(0 0 15px deeppink);
+}
+
+.shadow-darkviolet{ 
+	filter: drop-shadow(0 0 15px darkviolet);
+}
+
+.shadow-violet{ 
+	filter: drop-shadow(0 0 15px violet);
+}
+
+.shadow-darkslategray{ 
+	filter: drop-shadow(0 0 15px darkslategray);
+}
+
+.shadow-crimson{ 
+	filter: drop-shadow(0 0 15px crimson);
+}
+
+.shadow-cadetblue{ 
+	filter: drop-shadow(0 0 15px cadetblue);
+}
+
+.shadow-peru{ 
+	filter: drop-shadow(0 0 15px peru);
+}
+
+.shadow-black{ 
+	filter: drop-shadow(0 0 15px black);
+}
+
+.shadow-white{ 
+	filter: drop-shadow(0 0 15px white);
+}
+
+.shadow-gray{ 
+	filter: drop-shadow(0 0 15px gray);
+}
+
+.shadow-grey{ 
+	filter: drop-shadow(0 0 15px grey);
+}
+
+.shadow-fuchsia{ 
+	filter: drop-shadow(0 0 15px fuchsia);
+}
+
+.shadow-darkturquoise { 
+	filter: drop-shadow(0 0 15px DarkTurquoise);
+}
+
+.shadow-mediumturquoise { 
+	filter: drop-shadow(0 0 15px mediumturquoise);
+}
+
+.shadow-chocolate  { 
+	filter: drop-shadow(0 0 15px chocolate);
+}
+
+.shadow-brown { 
+	filter: drop-shadow(0 0 15px brown );
+}
+
+.shadow-sienna { 
+	filter: drop-shadow(0 0 15px sienna);
+}
+
+.shadow-rosybrown { 
+	filter: drop-shadow(0 0 15px rosybrown);
+}
+
+.shadow-gainsboro { 
+	filter: drop-shadow(0 0 15px gainsboro);
+}
